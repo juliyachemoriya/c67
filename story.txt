@@ -1,1 +1,2 @@
 There was a dog named dog.
+There was a cat named cat.
